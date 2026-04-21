@@ -28,7 +28,7 @@
 <h2>Specs</h2>
 <ul>
  <li>Glass: 22.4 × 12.6 × 1.1 mm</li>
- <li>Pitch: 1.27 mm, 12 pads (6+6)</li>
+ <li>Pitch: 1.27 mm, 10 pads (5+5)</li>
  <li>Viewing area: 3× 7-seg digits with DP</li>
  <li>Drive: 1/3 bias, 1/4 duty typical</li>
  <li>Voltage: 2.4-3.3V (VLCD)</li>
